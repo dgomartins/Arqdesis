@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="edit_message">Escreva uma mensagem</string>
+    <string name="button_send">Envie</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+
+    <string-array name="origem">
+
+        <item>Escolha o local de partida</item>
+        <item>São Paulo</item>
+        <item>Florianópolis</item>
+        <item>Rio de Janeiro</item>
+        <item>Porto Alegre</item>
+        <item>Goias</item>
+        <item>|Bahia</item>
+    </string-array>
+
+    <string-array name="destino">
+
+        <item>Escolha o local de chegada</item>
+        <item>São Paulo</item>
+        <item>Florianópolis</item>
+        <item>Rio de Janeiro</item>
+        <item>Porto Alegre</item>
+        <item>Goias</item>
+        <item>|Bahia</item>
+    </string-array>
+
+</resources>
